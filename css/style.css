@@ -111,3 +111,11 @@ nav a:hover {
     color: #fff01e;
     text-decoration: underline;
 }
+/* Main Layout */
+main {
+    display: grid; /* ใช้ Grid Layout */
+    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr)); /* สร้างคอลัมน์ที่ยืดหยุ่น */
+    gap: 2rem; /* ช่องว่างระหว่างแต่ละ Section */
+    padding: 2rem; /* เพิ่ม Padding รอบ ๆ main */
+    margin: 0 auto; /* จัดกลางหน้าเว็บ */
+}
