@@ -11,3 +11,11 @@ body {
     color: #494848da;
     background-color: #ffffff;
 }
+/* Header */
+header {
+    background-color: #1b60c1;
+    color: #fff;
+    padding: 1.5rem;
+    text-align: center;
+    font-size: 20px;
+}
