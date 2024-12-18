@@ -79,9 +79,15 @@ form {
     height: 1000px;
     margin: 1.5rem auto;
 }
-
 label {
     font-weight: bold;
     text-align: left;
     font-size: 20px;
 }
+input, textarea {
+    padding: 1rem;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    font-size: 0.9rem;
+}
+
