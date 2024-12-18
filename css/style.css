@@ -19,3 +19,16 @@ header {
     text-align: center;
     font-size: 20px;
 }
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    font-size: 20px;
+    padding: 0.5rem;
+}
+header nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
