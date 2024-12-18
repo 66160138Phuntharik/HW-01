@@ -79,3 +79,9 @@ form {
     height: 1000px;
     margin: 1.5rem auto;
 }
+
+label {
+    font-weight: bold;
+    text-align: left;
+    font-size: 20px;
+}
