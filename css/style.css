@@ -119,3 +119,21 @@ main {
     padding: 2rem; /* เพิ่ม Padding รอบ ๆ main */
     margin: 0 auto; /* จัดกลางหน้าเว็บ */
 }
+/* Section Styling */
+section {
+    background-color: #9dbff955;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1rem auto; /* จัดกรอบให้อยู่ตรงกลางและมีช่องว่างด้านบน-ล่าง */
+    max-width: 4000px; /* จำกัดความกว้างของ Section */
+    text-align: center;
+}
+/* ตกแต่งหน้าต่างหลัก */
+.home { 
+    background-color: #ffffff;
+    padding: 1.0rem;
+    margin: 1rem auto; /* จัดกรอบให้อยู่ตรงกลางและมีช่องว่างด้านบน-ล่าง */
+    max-width: 4000px; /* จำกัดความกว้างของ Section */
+    text-align: center;
+    font-size: 20.9px;
+}
