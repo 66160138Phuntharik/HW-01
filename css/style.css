@@ -35,3 +35,9 @@ header nav a {
 header nav a:hover {
     text-decoration: underline; /* ขีดเส้นใต้ */
 }
+/* Main Content */
+main {
+    padding: 5rem;
+    text-align: center;
+    font-size: 20px;
+}
